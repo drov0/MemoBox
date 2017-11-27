@@ -4,5 +4,7 @@ MemoBox is a small python class that allows users to store and retrieve files on
 
 It's mostly a POC but it allows users to see how to interact with the steem blockchain and use it for alternative use cases.
 
-Thanks to @anarchyhasnogods for his work with memos : https://github.com/anarchyhasnogods/memo_information_steem
+made by https://utopian.io/@howo
+
+Thanks to @anarchyhasnogods for his early work with memos : https://github.com/anarchyhasnogods/memo_information_steem
 
